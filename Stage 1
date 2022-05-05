@@ -4,4 +4,4 @@
 
 Using the GPIO diagram below, attach the components and wires as shown in the Stage 1 Circuit image. Be sure the Raspberry Pi is powered down while you set up the circuit to avoid damaging the Pi or components. Verify the circuit is set up correctly before turning on the Pi. For this example, the breadboard on the left simulates the Raspberry Pi GPIO pins.
 
-![alt text](Stage 1.jpg)
+![GPIO pins diagram](Raspi-Final-Project/Stage 1.png)
