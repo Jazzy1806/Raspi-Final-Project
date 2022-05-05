@@ -36,3 +36,6 @@ while True:
 ```
 
 Push the button to start the program. It will print the distances to the display. Push the button again to shut the distance sensor off.
+
+Check out the video to see how it works.
+![Stage_2 demo](Videos/Stage_2.mp4)
