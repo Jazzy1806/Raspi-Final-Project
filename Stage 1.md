@@ -4,9 +4,9 @@
 
 Using the GPIO diagram below, attach the components and wires as shown in the Stage 1 Circuit image. Be sure the Raspberry Pi is powered down while you set up the circuit to avoid damaging the Pi or components. Verify the circuit is set up correctly before turning on the Pi. For this example, the breadboard on the left simulates the Raspberry Pi GPIO pins.
 
-![GPIO pins diagram](https://github.com/Jazzy1806/Raspi-Final-Project/GPIO_pins.png)
+![GPIO pins diagram](Images/GPIO_pins.png)
 
-![Stage 1 Circuit](https://github.com/Jazzy1806/Raspi-Final-Project/Stage_1.png)
+![Stage 1 Circuit](Images/Stage_1.png)
 
 Power on the Pi and open Thonny or other Python IDE. Use the code below to activate the distance sensor and begin measuring distances.
 
