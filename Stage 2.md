@@ -6,7 +6,7 @@ Using the GPIO diagram below, add the button and wires as shown in the Stage 2 C
 
 ![GPIO pins diagram](Images/GPIO_pins.png)
 
-![Stage 1 Circuit](Images/Stage_2.png)
+![Stage 2 Circuit](Images/Stage_2.png)
 
 Power on the Pi and open Thonny or other Python IDE. Use the code below to activate the distance sensor and begin measuring distances.
 
