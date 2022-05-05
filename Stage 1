@@ -9,6 +9,7 @@ Using the GPIO diagram below, attach the components and wires as shown in the St
 ![Stage 1 Circuit](Raspi-Final-Project/Stage 1.png)
 
 Power on the Pi and open Thonny or other Python IDE. Use the code below to activate the distance sensor and begin measuring distances.
+
 ```python
 from gpiozero import DistanceSensor
 import time
