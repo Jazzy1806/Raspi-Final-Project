@@ -23,3 +23,6 @@ while True:
 ```
 
 Running the program will print the distances to the display.
+
+Check out the video to see how it works.
+![Stage_1 demo](Videos/Stage_1.mp4)
