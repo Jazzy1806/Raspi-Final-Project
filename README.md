@@ -1,5 +1,4 @@
 # Raspi-Final-Project
-# Final project for Intro to Unix class.
 
 ## In this tutorial, we are going to create a series of simple devices using Raspberry Pi 4 and the components listed below. This tutorial is divided into the following three stages:
 
